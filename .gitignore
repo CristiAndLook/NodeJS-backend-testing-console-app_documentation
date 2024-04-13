@@ -3,6 +3,7 @@ node_modules/
 dist/
 
 coverage/
+outputs/*.txt
 *.log
 
 .DS_Store
