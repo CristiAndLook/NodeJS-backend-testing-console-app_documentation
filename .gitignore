@@ -2,7 +2,10 @@ node_modules/
 
 dist/
 
+custom-outputs/
+test-destination/
 coverage/
+
 outputs/*.txt
 *.log
 
